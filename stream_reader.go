@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	utils "github.com/sashabaranov/go-openai/internal"
+	utils "github.com/1622145167/go-openai/internal"
 )
 
 var (

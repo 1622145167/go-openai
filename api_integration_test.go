@@ -9,9 +9,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
-	"github.com/sashabaranov/go-openai/jsonschema"
+	"github.com/1622145167/go-openai"
+	"github.com/1622145167/go-openai/internal/test/checks"
+	"github.com/1622145167/go-openai/jsonschema"
 )
 
 func TestAPI(t *testing.T) {
